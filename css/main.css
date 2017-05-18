@@ -3,6 +3,7 @@ body, html {
 }
 
 /*PORTFOLIO */
-/*#portfolio {
-  background: white;
-}*/
+#portfolio img.responsive-img {
+  min-width: 100%;
+  height: 200px;
+}
