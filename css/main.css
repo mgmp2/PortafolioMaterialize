@@ -1,3 +1,6 @@
 body, html {
 	background-color: #EDEDED !important;
 }
+.hr-space{
+	width: 42px;
+}
