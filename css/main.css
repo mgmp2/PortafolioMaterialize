@@ -1,9 +1,9 @@
+* {
+  margin:0;
+  padding: 0;
+}
 body, html {
 	background-color: #EDEDED !important;
 }
 
 /*PORTFOLIO */
-#portfolio img.responsive-img {
-  min-width: 100%;
-  height: 200px;
-}
