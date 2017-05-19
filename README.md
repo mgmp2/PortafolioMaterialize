@@ -1,9 +1,8 @@
-PORTAFOLIO usando MATERIALIZE
-============================= ![](https://2.bp.blogspot.com/-Kuv3VinRk8g/VwASJHwQ9AI/AAAAAAAAFNM/jK9iaaMohGU0RwSZi_YFTv7mkQu1jwezw/s1600/porfolio-portfolio-portafolio-icon.jpg)
+# PORTAFOLIO usando MATERIALIZE  ![](https://github.com/mgmp2/PortafolioMaterialize)
 ***Este proyecto se realizó como un reto en equipo.***
 
 ##Desarrollo con:
-|HTML|_ |JS|_ |CSS|_ ---> |MATERIALIZE|_
+`HTML` `JS` `CSS` `--->` `MATERIALIZE`
 
 ##Desarrollo
 Se decidió realizar la consigna de portafolio de una persona haciendo uso del framework MATERIALIZE, ya que nos ahorraba acciones a realizar.
@@ -25,8 +24,8 @@ Luego de finalizar el código podemos visualizar nuestro portafolio aqui:
 ### Visualizacion Final  ![](assets/favicon/final.png)
 ##### Members
 
-- Marilu Llamoca ()
+###### - Marilu Llamoca ()
 
-- Miriam Mendoza () ![Miriam](assets/favicon/Miriam.png)
+###### - Miriam Mendoza () ![Miriam](assets/favicon/Miriam.png)
 
-- Arantza Burga ()
+###### - Arantza Burga ()
