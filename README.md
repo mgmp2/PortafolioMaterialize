@@ -8,16 +8,14 @@
 Se decidió realizar la consigna de portafolio de una persona haciendo uso del framework MATERIALIZE, ya que nos ahorraba acciones a realizar.
 
 1. BANNER
-
 Se realizazó la portada del banner mo9strado como fondo completo para cada ordenador.
-#### ![cono](assets/img/favicon/banner.png)
+#### ![icono](assets/img/favicon/banner.png)
 
 2. ABOUT
-
+Se completo ésta sección con una plantilla MATERIALIZE.
 #### ![cono](assets/img/favicon/about.png)
 
 3. PORTAFOLIO
-
 #### ![cono](assets/img/favicon/portfolio.png)
 
 4. CONTACT
