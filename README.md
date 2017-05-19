@@ -18,12 +18,13 @@ Este proyecto se realizó como un reto en equipo
 Se realizazó la portada del banner mostrado como fondo completo para cada ordenador.
 
 + ABOUT  
-  ![about](assets/screenshot/about-contact.png)
+  ![about](assets/screenshot/about.png)
 Se completo ésta sección con una plantilla MATERIALIZE.
 
 + PORTFOLIO  
   ![portfolio](assets/screenshot/portfolio.png)
 + CONTACT
+ ![about](assets/screenshot/contact.png)
 Aqui vemos la sección de contactos:
 
 + GH-PAGES
@@ -40,4 +41,4 @@ Luego de finalizar el código podemos visualizar nuestro portafolio aqui:
 ![Miriam](assets/photo-members/Miriam.png)
 
 - Arantza Burga
-![Arantza](assets/photo-members/Arantza.png)
+![Arantza](assets/photo-members/Arantza.jpg)
