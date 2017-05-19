@@ -4,3 +4,6 @@ body, html {
 .hr-space{
 	width: 42px;
 }
+.parrafo{
+	overflow-wrap: break-word;
+}
