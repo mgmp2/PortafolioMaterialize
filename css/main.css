@@ -3,7 +3,11 @@ body, html {
 }
 .hr-space{
 	width: 42px;
+	margin-bottom: 25px;
 }
 .parrafo{
 	overflow-wrap: break-word;
+}
+.paddinTop{
+	padding: 14px 0;
 }
