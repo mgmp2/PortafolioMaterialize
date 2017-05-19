@@ -2,9 +2,6 @@ body, html {
 	background-color: #EDEDED !important;
 	margin: 0;
 }
-#banner > .row .col {
-	padding: 0;
-}
 .imagen{
 	background-image: url(../assets/img/bg.jpg);
 	height: 100vh;
