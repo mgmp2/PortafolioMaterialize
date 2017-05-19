@@ -1,4 +1,4 @@
-## PORTAFOLIO usando MATERIALIZE  ![](assets/favicon.io)
+## PORTAFOLIO usando MATERIALIZE  ![](assets/favicon/favicon.io)
 ***Este proyecto se realizó como un reto en equipo.***
 
 ##Desarrollo con:
