@@ -55,7 +55,7 @@ section, #portfolio .box-photos {
 /* RESPONSIVE MEDIA QUERY */
 @media only screen and (max-width: 480px) {
 	.imagen {
-		background-size: 425%;
+		background-size: 475%;
 	}
 	.box-photos img {
 		height: 25vh;
