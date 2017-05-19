@@ -10,3 +10,6 @@ body, html {
 #portfolio .box-photos {
   overflow: hidden;
 }
+.box-photos > .row {
+  margin-bottom: 0;
+}
