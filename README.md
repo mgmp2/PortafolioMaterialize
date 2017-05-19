@@ -1,4 +1,4 @@
-## PORTAFOLIO usando MATERIALIZE ![cono](assets/favicon/portafolio.jpg)
+## PORTAFOLIO usando MATERIALIZE ![alt text](https://2.bp.blogspot.com/-Kuv3VinRk8g/VwASJHwQ9AI/AAAAAAAAFNM/jK9iaaMohGU0RwSZi_YFTv7mkQu1jwezw/s1600/porfolio-portfolio-portafolio-icon.jpg)
 ***Este proyecto se realizó como un reto en equipo.***
 
 ##Desarrollo con:
@@ -19,11 +19,9 @@ Se completo ésta sección con una plantilla MATERIALIZE.
 #### ![cono](assets/favicon/portfolio.png)
 
 4. CONTACT
-
 Aqui vemos la sección de contactos:
 
 5. GH-PAGES
-
 Luego de finalizar el código podemos visualizar nuestro portafolio aqui:
 
 ### Visualizacion Final
