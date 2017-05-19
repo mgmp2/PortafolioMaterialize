@@ -3,12 +3,12 @@ PORTAFOLIO usando MATERIALIZE
 ***Este proyecto se realizó como un reto en equipo.***
 
 ##Desarrollo con:
-`HTML` `JS` `CSS` `--->` `MATERIALIZE`
+|HTML|_ |JS|_ |CSS|_ ---> |MATERIALIZE|_
 
 ##Desarrollo
 Se decidió realizar la consigna de portafolio de una persona haciendo uso del framework MATERIALIZE, ya que nos ahorraba acciones a realizar.
 
-#### 1. BANNER  ![](assets/favicon/banner.png)
+#### 1. BANNER  ![](https://github.com/banner.png)
 Se realizazó la portada del banner mostrado como fondo completo para cada ordenador.
 
 #### 2. ABOUT  ![](assets/favicon/about.png)
