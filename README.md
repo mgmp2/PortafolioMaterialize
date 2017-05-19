@@ -1,4 +1,5 @@
-## PORTAFOLIO usando MATERIALIZE  ![](https://2.bp.blogspot.com/-Kuv3VinRk8g/VwASJHwQ9AI/AAAAAAAAFNM/jK9iaaMohGU0RwSZi_YFTv7mkQu1jwezw/s1600/porfolio-portfolio-portafolio-icon.jpg/30)
+PORTAFOLIO usando MATERIALIZE
+============================= ![](https://2.bp.blogspot.com/-Kuv3VinRk8g/VwASJHwQ9AI/AAAAAAAAFNM/jK9iaaMohGU0RwSZi_YFTv7mkQu1jwezw/s1600/porfolio-portfolio-portafolio-icon.jpg)
 ***Este proyecto se realizó como un reto en equipo.***
 
 ##Desarrollo con:
@@ -13,7 +14,6 @@ Se realizazó la portada del banner mostrado como fondo completo para cada orden
 #### 2. ABOUT  ![](assets/favicon/about.png)
 Se completo ésta sección con una plantilla MATERIALIZE.
 
-
 #### 3. PORTAFOLIO  ![](assets/favicon/portfolio.png)
 
 #### 4. CONTACT
@@ -25,8 +25,8 @@ Luego de finalizar el código podemos visualizar nuestro portafolio aqui:
 ### Visualizacion Final  ![](assets/favicon/final.png)
 ##### Members
 
-###### *1. Marilu Llamoca ()*
+- Marilu Llamoca ()
 
-###### *2. Miriam Mendoza () ![Miriam](assets/favicon/Miriam.png)*
+- Miriam Mendoza () ![Miriam](assets/favicon/Miriam.png)
 
-###### *3. Arantza Burga ()*
+- Arantza Burga ()
