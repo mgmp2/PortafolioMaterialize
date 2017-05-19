@@ -1,4 +1,4 @@
-## PORTAFOLIO usando MATERIALIZE  ![](../favicon.io)
+## PORTAFOLIO usando MATERIALIZE  ![](https://2.bp.blogspot.com/-Kuv3VinRk8g/VwASJHwQ9AI/AAAAAAAAFNM/jK9iaaMohGU0RwSZi_YFTv7mkQu1jwezw/s1600/porfolio-portfolio-portafolio-icon.jpg "de 68x68 pixeles")
 ***Este proyecto se realizó como un reto en equipo.***
 
 ##Desarrollo con:
