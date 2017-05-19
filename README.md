@@ -1,4 +1,4 @@
-## PORTAFOLIO usando MATERIALIZE  ![cono](assets/favicon/portafolio.jpg)
+## PORTAFOLIO usando MATERIALIZE  ![](../favicon/portafolio.jpg)
 ***Este proyecto se realizó como un reto en equipo.***
 
 ##Desarrollo con:
@@ -25,8 +25,8 @@ Luego de finalizar el código podemos visualizar nuestro portafolio aqui:
 ### Visualizacion Final  ![final](assets/favicon/final.png)
 ##### Members
 
-## *1. Marilu Llamoca ()*
+###### *1. Marilu Llamoca ()*
 
-## *2. Miriam Mendoza () ![Miriam](assets/favicon/Miriam.png)*
+###### *2. Miriam Mendoza () ![Miriam](assets/favicon/Miriam.png)*
 
-## *3. Arantza Burga ()*
+###### *3. Arantza Burga ()*
