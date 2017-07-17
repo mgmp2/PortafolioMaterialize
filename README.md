@@ -2,7 +2,7 @@
 Este proyecto se realizó como un reto en equipo
 
 ## Descripción
-  Se decidió realizar la consigna de portafolio de una persona haciendo uso del framework MATERIALIZE, ya que nos ahorrará acciones a realizar.
+  Se decidió realizar la consigna de portafolio de una persona haciendo uso del framework MATERIALIZE, ya que nos ahorrará acciones a realizar
 ## Objetivo
   Relizar un portafolio con el framework materialize, el cual permitirá reutilizar clases para armar la página web
 ## Desarrollado
@@ -32,7 +32,7 @@ Luego de finalizar el código podemos visualizar nuestro portafolio aqui:
 
 + Visualizacion Final 
   ![final](assets/screenshot/final.png)
-### Equipo
+## Equipo
 
 - Marilu Llamoca
 ![Marilu](assets/photo-members/Marilu.png)
